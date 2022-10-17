@@ -10,6 +10,13 @@
 * You don't have to consider copyrights, since this is an educational assignment.
 * More detailed description in the video provided in Oma.
 
+### How to submit:
+In Oma, provide a `clickable` link to the folder where your assignment is. Also provide a `clickable` link to the html document where you have the screenshots and the css example of your font. See the video for details. Example submission:
+
+[Site](https://users.metropolia.fi/~username/foldername)
+
+[Screenshots](https://users.metropolia.fi/~username/foldername/screenshots.html)
+
 ### Evaluation
 On submission, you will automatically receive grade 5. If some aspects of the assignment are missing or inadequate, grade will be deducted as follows:
 * Your version does not resemble the provided layout, or CSS is missing -3
@@ -18,3 +25,6 @@ On submission, you will automatically receive grade 5. If some aspects of the as
 * Contrast check is not passed -2
 * Validation is not passed -3
 * Lighthouse check is incomplete -1/audit
+* Default font (Times New Roman) -2
+* Missing padding (text too close to edges or other elements) -2
+* Did not follow submission instructions -5
