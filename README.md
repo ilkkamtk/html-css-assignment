@@ -28,3 +28,41 @@ On submission, you will automatically receive grade 5. If some aspects of the as
 * Default font (Times New Roman) -2
 * Missing padding (text too close to edges or other elements) -2
 * Did not follow submission instructions -5
+
+Screenshot page example html:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+</head>
+<body>
+<h2>Font</h2>
+<p>Font is from <a href="https://fonts.google.com/specimen/Whatever">Google Fonts. Name: Whatever</a></p>
+<pre>
+    @font-face {
+      font-family: whatEver;
+      src: url(sansation_light.woff) format(woff);
+    }
+
+    body {
+       font-family: whatEver;
+    }
+</pre>
+<h2>Validation</h2>
+<p>
+    <img src="img/validator.png" alt="valid">
+</p>
+<h2>Lighthouse</h2>
+<p>
+    <img src="img/lighthouse.png" alt="lighthouse">
+</p>
+<h2>Contrast</h2>
+<p>
+    <img src="img/contrast.png" alt="contrast">
+</p>
+
+</body>
+</html>
+```
