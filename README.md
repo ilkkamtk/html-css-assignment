@@ -19,7 +19,7 @@ In Oma, provide a `clickable` link to the folder where your assignment is. Also 
 
 ### Evaluation
 On submission, you will automatically receive grade 5. If some aspects of the assignment are missing or inadequate, grade will be deducted as follows:
-* Your version does not resemble the provided layout, or CSS is missing -3
+* Your version does not resemble the provided layout, or CSS is missing -1 to -3
 * Navigation does not work -3
 * Images are not found -3
 * Contrast check is not passed -2
