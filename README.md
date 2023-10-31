@@ -24,7 +24,7 @@ On submission, you will automatically receive grade 5. If some aspects of the as
 * Images are not found -3
 * Contrast check is not passed -2
 * Validation is not passed -3
-* Lighthouse check is incomplete -1/audit
+* Lighthouse check score is less than 90 -1, less than 70 -2
 * Default font (Times New Roman) -2
 * Missing padding (text too close to edges or other elements) -2
 * Did not follow submission instructions -5
