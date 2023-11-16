@@ -9,6 +9,7 @@
 * You can use lorem ipsum as text content. Any text will do.
 * You don't have to consider copyrights, since this is an educational assignment.
 * More detailed description in the video provided in Oma.
+* Web page(s) don't need to be responsive.
 
 ### How to submit:
 In Oma, provide a `clickable` link to the folder where your assignment is. Also provide a `clickable` link to the html document where you have the screenshots and the css example of your font. See the video for details. Example submission:
