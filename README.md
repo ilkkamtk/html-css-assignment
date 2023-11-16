@@ -24,6 +24,8 @@ On submission, you will automatically receive grade 5. If some aspects of the as
 * Images are not found -3
 * Contrast check is not passed -2
 * Validation is not passed -3
+   * No errors
+   * Warnings, like no heading in `<article>` or `<section>` etc. are allowed
 * Lighthouse check score is less than 90 -1, less than 70 -2
   * some versions of Chrome show the score with 5/5 or 4/4 in that case -1 from each missing point. E.g. 3/4 = -1. However, max deduction is -2
 * Default font (Times New Roman) -2
