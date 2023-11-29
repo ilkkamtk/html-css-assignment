@@ -31,7 +31,6 @@ On submission, you will automatically receive grade 5. If some aspects of the as
   * some versions of Chrome show the score with 5/5 or 4/4 in that case -1 from each missing point. E.g. 3/4 = -1. However, max deduction is -2
 * Default font (Times New Roman) -2
 * Missing padding (text too close to edges or other elements) -2
-* Did not follow submission instructions -5
 
 **Note! Test your assignment on a different computer to make sure all files are loaded!** 
 
