@@ -12,7 +12,7 @@
 * Web page(s) don't need to be responsive.
 
 ### How to submit:
-In Oma, provide a `clickable` link to the folder where your assignment is. Also provide a `clickable` link to the html document where you have the screenshots and the css example of your font. See the video for details. Example submission:
+In Oma, provide a `clickable` link to the folder where your assignment is. Also provide a `clickable` link to the html document where you have the screenshots and the css example of your font. See the [video](https://www.youtube.com/watch?v=u7mjd5Vi6lk&list=PLKenVLUxjmH-y89AiiI2xcXDy5QG83D4K&index=6) for details. Example submission:
 
 [Site](https://users.metropolia.fi/~username/foldername)
 
@@ -24,6 +24,7 @@ On submission, you will automatically receive grade 5. If some aspects of the as
 * Navigation does not work -3
 * Images are not found -3
 * Contrast check is not passed -2
+   * UPDATE 28.10.2024: https://color.a11y.com/Contrast/ is no longer available. Use https://wave.webaim.org/ instead. [Example screenshot here](wave.png).
 * Validation is not passed -3
    * No errors
    * Warnings, like no heading in `<article>` or `<section>` etc. are allowed
