@@ -24,7 +24,8 @@ On submission, you will automatically receive grade 5. If some aspects of the as
 * Navigation does not work -3
 * Images are not found -3
 * Contrast check is not passed -2
-   * UPDATE 28.10.2024: https://color.a11y.com/Contrast/ is no longer available. Use https://wave.webaim.org/ instead. [Example screenshot here](wave.png).
+   * _UPDATE 28.10.2024_: https://color.a11y.com/Contrast/ is no longer available. Use https://wave.webaim.org/ instead. [Example screenshot here](wave.png).
+   * Contrast errors needs to be 0. Other items are checked with validation and Lighthouse below. 
 * Validation is not passed -3
    * No errors
    * Warnings, like no heading in `<article>` or `<section>` etc. are allowed
