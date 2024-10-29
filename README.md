@@ -31,7 +31,7 @@ On submission, you will automatically receive grade 5. If some aspects of the as
    * Warnings, like no heading in `<article>` or `<section>` etc. are allowed
 * Lighthouse check score is less than 90 -1, less than 70 -2
   * some versions of Chrome show the score with 5/5 or 4/4 in that case -1 from each missing point. E.g. 3/4 = -1. However, max deduction is -2
-  * Update 25.3.2024: If you use `<iframe>` to add Google map, Lighthouse will deduct points. That will not affect evaluation. you should however conisder just using an image of the map. 
+  * Update 25.3.2024: If you use `<iframe>` to add Google map, Lighthouse will deduct points. That will not affect evaluation. you should however consider just using an image of the map. 
 * Default font (Times New Roman) -2
 * Missing padding (text too close to edges or other elements) -2
 
